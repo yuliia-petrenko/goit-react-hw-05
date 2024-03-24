@@ -1,0 +1,15 @@
+.navigationWrapper {
+  display: flex;
+  gap: 20px;
+  border: 1px solid grey;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 10px 5px 5px grey;
+}
+.navigationItem {
+  font-size: 20px;
+  color: black;
+}
+.active {
+  color: red;
+}
